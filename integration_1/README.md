@@ -1,4 +1,4 @@
-## Project title: Lab work
+## Project title: Assignment Work
 
 Name: Smruti Shah
 
